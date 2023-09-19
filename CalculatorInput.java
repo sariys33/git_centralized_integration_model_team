@@ -20,6 +20,6 @@ public class CalculatorInput {
             System.out.println("결과: " + result);
         }
 
-        // scanner.close();
+        scanner.close();
     }
 }
